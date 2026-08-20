@@ -2,7 +2,7 @@
 
 ## My name is Emily Frances Kolar
 
-I'm currently based out of Gothenburg, Sweden and studying **frontend developement** at Medieinstitutet (planned graduation May 2027 🥳)
+I'm based out of Gothenburg, Sweden and currently studying frontend developement at Medieinstitutet (graduating 2027).
 
 ### Some personal interests:
 
@@ -17,16 +17,14 @@ The way I do this is through 1 of my favorite websites/app, a.k.a [radiogarden](
 
 ### Programming skill set in:
 
-HTMl, CSS, JavaScript, React, TypeScript, Node.JS, Express.JS, Shadcn, ZOD, Tanstack, Testing, APIs
+HTML, CSS, JavaScript, React, TypeScript, Node.JS, Express.JS, Shadcn, ZOD, Tanstack, Testing, APIs
 
 ### Design skill set in:
 
-Service, UX/UI Design, Figma, Design Thinking, Prototypes & Wireframes, UX and Technical Copy,</br>
-TheyDo (customer journey mapping tool), Sharepoint, Excel
+Service, UX/UI Design, Figma, Design Thinking, Prototypes & Wireframes, TheyDo (customer journey mapping tool), UX and Technical Copy, Sharepoint, Excel
 
 ### Fluent in:
 
 Swedish 🇸🇪 and English 🇺🇸
 
-Thanks for taking time to visit my github! </br>
-Feel free to get in touch! 🥰
+Thanks for taking time to visit my github, merci mon cheri! 🥰
