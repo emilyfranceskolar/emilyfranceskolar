@@ -27,4 +27,4 @@ Service, UX/UI Design, Figma, Design Thinking, Prototypes & Wireframes, TheyDo (
 
 Swedish and English
 
-Thanks for taking to time to visit my github! 🥰
+Thanks for taking time to visit my github, merci mon cheri! 🥰
