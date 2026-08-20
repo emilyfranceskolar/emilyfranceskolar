@@ -26,7 +26,6 @@ TheyDo (customer journey mapping tool), Sharepoint, Excel
 
 ### Fluent in:
 
-Swedish 🇸🇪 and English 🇺🇸
+Swedish 🇸🇪 and English 🇺🇸 </br>
 
-Thanks for taking time to visit my github!</br>
-Feel free to get in touch with me 🥰
+**Thanks** for taking time to visit my github! Feel free to get in touch with me 🥰
