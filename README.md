@@ -7,7 +7,7 @@ I am based out of Gothenburg, Sweden and I am currently studying frontend develo
 ### Some personal interests:
 
 -I'm a music nerd, who listens to radio from different countries and in different languages nearly ever day. <br/>
-The way I do this is through 1 of my favorite websites/app, a.k.a [radiogarden](https://radio.garden/listen/radio-grenouille-fm-88-8/dbJGXAGb) -this is a good radio station from Marsielle- 📡
+The way I do this is through 1 of my favorite websites/app, a.k.a [radiogarden](https://radio.garden/listen/radio-grenouille-fm-88-8/dbJGXAGb) (this is a good radio station from Marseille) 📡
 
 -Saunas - I go to the sauna year round and have been doing so since Covid. It's one of the best ways I know to feel good. <br/>There is nothing like sweating in a hot hot sauna 🥵 and then plunging into cold water 🥶!
 
