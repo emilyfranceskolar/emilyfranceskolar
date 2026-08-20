@@ -2,7 +2,7 @@
 
 ## My name is Emily Frances Kolar
 
-I'm based out of Gothenburg, Sweden and currently studying frontend developement at Medieinstitutet (graduating 2027).
+I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet (planned graduation in May 2027).
 
 ### Some personal interests:
 
@@ -13,7 +13,7 @@ The way I do this is through 1 of my favorite websites/app, a.k.a [radiogarden](
 
 -Hanging out out with close friends. Most have kids, but we still kick it with, or without the kiddies. We're mostly into experiences, so everything from going to shows/music-festivals to eating & drinking well 👌🏽
 
--Ideating and making trouble in a kitchen. I'm a trained chef and even though I no longer work as one, I still make practically most of the food that I eat. I have currently gotten pretty nerdy about my 16hr bone broth 🥣 and I care about eating locally and in season ✨
+-Ideating and making trouble in a kitchen. I'm a trained chef and even though I no longer work as one, I still make practically most of the food that I eat. I have currently gotten pretty nerdy about my 16hr bone broth 🥣 and I deeply care about eating locally and in season ✨
 
 ### Programming skill set in:
 
