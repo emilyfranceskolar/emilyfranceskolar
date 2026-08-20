@@ -17,11 +17,11 @@ The way I do this is through 1 of my favorite websites/app, a.k.a [radiogarden](
 
 ### Programming skill set in:
 
-HTMl, CSS, JavaScript, React, TypeScript, Node.JS, Express.JS, ShadCN, ZOD,Tanstack, Testing, APIs
+HTML, CSS, JavaScript, React, TypeScript, Node.JS, Express.JS, ShadCN, ZOD, Tanstack, Testing, APIs 
 
 ### Design skill set in:
 
-Service, UX/UI Design, Figma, Design Thinking, Prototypes & Wireframes, TheyDo (tool for customer journey mapping), UX and Technical Copy, Sharepoint, Excel
+Service, UX/UI Design, Figma, Design Thinking, Prototypes & Wireframes, TheyDo (customer journey mapping tool), UX and Technical Copy, Sharepoint, Excel
 
 ### Fluent in:
 
