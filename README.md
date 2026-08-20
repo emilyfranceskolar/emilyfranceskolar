@@ -2,7 +2,7 @@
 
 ## My name is **Emily**
 
-I'm based out of Gothenburg, Sweden and I am currently studying frontend developement at Medieinstitutet (graduating 2027).
+I'm based out of Gothenburg, Sweden and currently studying frontend developement at Medieinstitutet (graduating 2027).
 
 ### Some personal interests:
 
