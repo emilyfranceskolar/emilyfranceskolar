@@ -4,9 +4,11 @@
 
 I'm based out of Gothenburg, Sweden and currently studying **frontend developement**</br> at Medieinstitutet (planned graduation in May 2027)
 
-Think of it as going from this kind of vibe (see pic below) to a more controlled fire with regards to Git and a number of other things!
+Think of it as going from this kind of vibe (see pic below) to a more controlled </br >fire with regards to Git, along with a number of other things 🤭
 
-<img height="600" width="1050" alt="image" src="https://github.com/user-attachments/assets/7ca6556e-4e33-40aa-b001-cafbc666f8f5" />
+<p align="start">   
+<img height="300" width="525" alt="image" src="https://github.com/user-attachments/assets/7ca6556e-4e33-40aa-b001-cafbc666f8f5" />
+</p>
 
 
 ### Some personal interests:
