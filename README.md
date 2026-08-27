@@ -27,7 +27,7 @@ Vercel · Shadcn ·  Testing - Cypress | Vitest | Playwright · APIs · Git | Gi
 
 ### Design skill set in:
 
-Service · UX/UI Design · Figma · Design Thinking · Prototypes & Wireframes · UX and Technical </br> 
+Service · UX/UI Design · Figma · Design Thinking · Prototypes & Wireframes · UX and Technical Copy </br> 
 Figma · TheyDo (customer journey mapping tool) · Sharepoint · Excel
 
 
