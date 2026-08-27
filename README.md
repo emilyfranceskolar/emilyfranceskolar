@@ -2,7 +2,7 @@
 
 ## My name is Emily Frances Kolar
 
-I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet (planned graduation in May 2027)
+I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet (planned graduation May 2027)
 
 Think of it as going from this kind of vibe (see pic below) to a more controlled fire with regards to Git, along with a number of other things 🤭
 
