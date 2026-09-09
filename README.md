@@ -4,7 +4,7 @@
 
 I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet (planned graduation May 2027)
 
-Think of it as going from forrest wild fire to a more controlled fire 🔥👩🏽‍🚒 with regards to Git, along with a number of other things!
+Think of it as going from a wild forrest fire to a more controlled fire 🔥👩🏽‍🚒 with regards to Git, along with a number of other things!
 
 ### Some personal interests:
 
