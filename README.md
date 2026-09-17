@@ -1,12 +1,8 @@
-# Hello World! 👋🏽
-
-## My name is Emily Frances Kolar
+## Hello World! 👋🏽
 
 I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet (planned graduation May 2027)
 
-Think of it as going from a wild forrest fire to a more controlled fire 🔥👩🏽‍🚒 with regards to Git, along with a number of other things!
-
-### Some personal interests:
+### Interests:
 
 - I'm a music nerd, who listens to radio from different countries and in different languages nearly ever day. The way I do this is through **1 of my favorite websites/apps**, a.k.a **radiogarden** (psst, Radio Grenouille FM 88.8 is a good alternative radio station from Marseille) 📡
 
@@ -16,12 +12,12 @@ Think of it as going from a wild forrest fire to a more controlled fire 🔥👩
 
 - Ideating and making trouble in a kitchen. I'm a trained chef and even though I no longer work as one, I still make practically most of the food that I eat. I have currently gotten pretty nerdy about 12-16hr bone broth 🥣 and I deeply care about eating locally, in season ✨
 
-### Programming skill set in:
+### Programming skill set:
 
 HTML · CSS · JavaScript · React · Vue · TypeScript · Node.js · Next.js · Express.js · Vite · Tanstack Query </br> 
 Vercel · Shadcn ·  Testing - Cypress | Vitest | Playwright · APIs · Git | Github · VSCode · Chrome DevTools  
 
-### Design skill set in:
+### Design skill set:
 
 Service · UX/UI Design · Figma · Design Thinking · Prototypes & Wireframes · UX and Technical Copy </br> 
 Figma · TheyDo (customer journey mapping tool) · Sharepoint · Excel
@@ -31,4 +27,4 @@ Figma · TheyDo (customer journey mapping tool) · Sharepoint · Excel
 
 Swedish 🇸🇪 and English 🇺🇸 </br>
 
-**Thanks** for taking time to visit my github, feel free to get in touch with me! 🥰
+Chao nen@!
