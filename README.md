@@ -1,6 +1,6 @@
 ## Hello World! 👋🏽
 
-I'm based out of Gothenburg, Sweden and currently studying **frontend developement** at Medieinstitutet
+I'm based out of Gothenburg, Sweden 
 
 ### Interests
 
