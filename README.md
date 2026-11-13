@@ -9,10 +9,10 @@ I'm based out of Gothenburg, Sweden and currently studying **frontend developeme
 - Ideating and making trouble in a kitchen. I'm a trained chef and even though I no longer work as one, </br >I still make practically most of the food that I eat, and I care about eating locally, in season ✨
 
 
-### Frontend - Tech Stack
+### Tech Stack - Frontend 
 
-HTML · CSS · JavaScript · React · Vue · TypeScript · Node.js · Next.js · Express.js · Vite · Tanstack Query · Astro</br> 
-Vercel · Shadcn UI · Chakra UI ·  Testing - Cypress | Vitest | Playwright · APIs · Git | Github · VSCode · Chrome DevTools 
+HTML · CSS · JavaScript · React · Vue · TypeScript · Node.js · Next.js · Express.js · Vite & Vite+ · Tanstack Query · Astro</br> 
+Vercel · Shadcn UI · Chakra UI ·  Testing - Cypress | Vitest | Playwright · APIs · Git | Github · VSCode · Chrome DevTools · Claude, Co-pilot
 
 ### Design
 
